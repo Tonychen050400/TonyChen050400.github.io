@@ -21,7 +21,7 @@ repository               : "Tonychen050400/Tonychen050400.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "/images/self.PNG"
+  avatar           : self.JPG
   name             : "Haoyu (Tony) Chen"
   pronouns         : "he/his/him"  
   bio              : "Research Assistant at Carnegie Mellon University"

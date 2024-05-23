@@ -14,7 +14,7 @@ name                     : &name "Haoyu (Tony) Chen"
 description              : &description "Research Assistant at Carnegie Mellon University"
 url                      : https://tonychen050400.github.io 
 baseurl                  : "" 
-repository               : "tonychen050400/tonychen050400.github.io"
+repository               : "Tonychen050400/TonyChen050400.github.io"
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html

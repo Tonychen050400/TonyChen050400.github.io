@@ -12,6 +12,6 @@ Hello! My name is Haoyu (Tony) Chen. I obtain the Master Degree in Electrical an
 
 My research interest focus on several parts: 1, Using diffusion models to generate realistic images/videos; 2, Doing anomaly detection using computer vision technics; 3, Image classification and Pattern Recognition
 
-You can find my CV here: [haoyu chen's Curriculum_Vitae](../assets/HaoyuChen Resume.pdf).
+You can find my CV here: [haoyu chen's Curriculum_Vitae](../assets/Haoyu_Chen_Resume.pdf).
 
 [Email](tonychen54816@gmail.com) / [Github](https://github.com/Tonychen050400)

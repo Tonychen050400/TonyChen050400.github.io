@@ -10,13 +10,10 @@ I'm a seeking for Ph.D. program position about Computer Vision, Machine Learning
 
 Hello! My name is Haoyu (Tony) Chen. I obtain the Master Degree in Electrical and Computer Engineer-Applied Program at Carnegie Mellon University and Bachelor Degree in Computer Science Dual Mathematics minor Economics at Rensselaer Polytechnic Institute.
 
-My research interest focus on several parts: 
-
-1, Using diffusion models to generate realistic images/videos; 
-
-2, Doing anomaly detection using computer vision technics; 
-
-3, Image classification and Pattern Recognition
+My research interest focus on several parts:    
+1, Using diffusion models to generate realistic images/videos;     
+2, Doing anomaly detection using computer vision technics;     
+3, Image classification and Pattern Recognition    
 
 You can find my CV here: [haoyu chen's Curriculum_Vitae](../assets/Haoyu_Chen_Resume.pdf).
 

@@ -12,7 +12,7 @@ title                    : "Haoyu (Tony) Chen/Personal Homepage"
 title_separator          : "-"
 name                     : &name "Haoyu (Tony) Chen"
 description              : &description "Research Assistant at Carnegie Mellon University"
-url                      : https://tonychen050400.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://tonychen050400.github.io 
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Tonychen050400/Tonychen050400.github.io"
 
@@ -21,7 +21,7 @@ repository               : "Tonychen050400/Tonychen050400.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "self.png"
+  avatar           : "/images/self.PNG"
   name             : "Haoyu (Tony) Chen"
   pronouns         : "he/his/him"  
   bio              : "Research Assistant at Carnegie Mellon University"

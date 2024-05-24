@@ -8,7 +8,7 @@ redirect_from:
 ---
 I'm seeking for Ph.D. program position about Computer Vision, Machine Learning, or Deep Learning. 
 
-Hello! My name is Haoyu (Tony) Chen. I have obtained a Master’s Degree in Electrical and Computer Engineering—Applied Program from Carnegie Mellon University and a Bachelor’s Degree in Computer Science with a dual minor in Mathematics and Economics from Rensselaer Polytechnic Institute.
+Hello! My name is Haoyu (Tony) Chen. I have obtained a Master’s Degree in Electrical and Computer Engineering—Applied Program from Carnegie Mellon University and a Bachelor’s Degree in Computer Science dual Mathematics minor in Economics from Rensselaer Polytechnic Institute.
 
 My research interests focus on several parts:    
 1, Realistic images/videos generation using diffusion models     

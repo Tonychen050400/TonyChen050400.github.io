@@ -1,5 +1,5 @@
 # main links links
-main:
+# main:
   # - title: "About"   
   #   url: /portfolio/  
   
@@ -12,8 +12,8 @@ main:
   #- title: "Teaching"
   #  url: /teaching/    
     
-  - title: "About"
-    url: /portfolio/
+  #- title: "About"
+  #  url: /portfolio/
         
   #- title: "Blog Posts"
   #  url: /year-archive/

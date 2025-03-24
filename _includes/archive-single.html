@@ -71,6 +71,13 @@
     {% elsif post.slidesurl %}
       <p><a href="{{ post.slidesurl }}">Download Slides</a></p>
     {% endif %}
+    {% if post.huggingfaceurl %}
+      <p>
+        <a href="{{ post.huggingfaceurl }}" target="_blank" style="display: inline-block; padding: 6px 12px; background-color: #4CAF50; color: white; border-radius: 4px; text-decoration: none; font-weight: bold;">
+          📂 View Data on Hugging Face
+        </a>
+      </p>
+    {% endif %}
 
   </article>
 </div>

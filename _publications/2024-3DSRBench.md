@@ -5,7 +5,7 @@ category: conferences
 permalink: /publication/2024-3DSRBench
 excerpt: 'We present 3DSRBench, a comprehensive 3D spatial reasoning benchmark.'
 date: 2024-12-10
-authors:Wufei Ma, <strong>Haoyu Chen</strong>, Guofeng Zhang, Celso Mde Melo, Jieneng Chen, Alan Yuille
+authors: Wufei Ma, <strong>Haoyu Chen</strong>, Guofeng Zhang, Celso Mde Melo, Jieneng Chen, Alan Yuille
 paperurl: 'https://arxiv.org/abs/2412.07825'
 ---
 

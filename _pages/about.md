@@ -13,5 +13,5 @@ During my master’s studies, I worked with [**Prof. Min Xu**](https://xulabs.gi
 
 During my undergraduate studies, I worked on ethical AI and decision-making with [**Prof. Lirong Xia**](https://people.cs.rutgers.edu/~lirong.xia/).
 
-You can find my CV here: [haoyu's Curriculum Vitae](../assets/CV_Haoyu_Chen_Final.pdf).
+You can find my CV here: [haoyu's Curriculum Vitae](../assets/Haoyu_Chen_Resume.pdf).
 

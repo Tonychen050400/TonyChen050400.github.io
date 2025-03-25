@@ -14,7 +14,7 @@
 
 <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
   {% if post.image %}
-    <a href="{{ post.image | prepend: '/images/' | prepend: base_path }}" class="lightbox-trigger">
+    <a href="{{ post.image | prepend: '/images/' | prepend: base_path }}" data-lightbox="publication-gallery">
       <img src="{{ post.image | prepend: '/images/' | prepend: base_path }}" alt="publication image" class="publication-thumbnail">
     </a>
   {% endif %}

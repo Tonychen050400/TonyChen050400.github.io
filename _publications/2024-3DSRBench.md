@@ -3,7 +3,7 @@ title: "3DSRBench: A Comprehensive 3D Spatial Reasoning Benchmark"
 collection: publications
 category: conferences
 permalink: /publication/2024-3DSRBench
-excerpt: 'We present 3DSRBench, a comprehensive 3D spatial reasoning benchmark.'
+excerpt: ''
 date: 2024-12-10
 authors: Wufei Ma, <strong>Haoyu Chen</strong>, Guofeng Zhang, Celso Mde Melo, Jieneng Chen, Alan Yuille
 status: arXiv preprint

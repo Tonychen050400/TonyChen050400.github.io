@@ -49,9 +49,10 @@
   gap: 8px;
    
   img {
-    width: 60px; 
+    max-width: none;
+    width: 100px; 
     height: auto;
-    border-radius: 8px;
+    border-radius: 6px;
     box-shadow: 0 2px 5px rgba(0,0,0,0.1);
   }
   a + a {

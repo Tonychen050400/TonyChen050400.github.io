@@ -28,7 +28,9 @@
 
     <h2 class="archive__item-title" itemprop="headline">
       {% if post.image %}
-        <img src="{{ post.image | prepend: '/images/' | prepend: base_path }}" alt="publication symbol" class="publication-thumbnail">
+        <a href="{{ post.image | prepend: '/images/' | prepend: base_path }}" class="lightbox-trigger">
+          <img src="{{ post.image | prepend: '/images/' | prepend: base_path }}" alt="publication image" class="publication-thumbnail">
+        </a>
       {% endif %}
       {% if post.link %}
         <a href="{{ post.link }}">{{ title }}</a>

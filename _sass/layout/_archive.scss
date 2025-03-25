@@ -42,7 +42,18 @@
 .archive__item-title {
   margin-bottom: 0.25em;
   font-family: $sans-serif-narrow;
-
+  font-size: 1rem;
+   
+  display: flex;
+  align-items: center;
+  gap: 8px;
+   
+  img {
+    width: 60px; 
+    height: auto;
+    border-radius: 8px;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+  }
   a + a {
     opacity: 0.5;
   }

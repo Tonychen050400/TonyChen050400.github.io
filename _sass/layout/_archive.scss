@@ -263,6 +263,7 @@
 
 .archive__item {
   display: flex;
+  flex-direction: row;
   gap: 20px;
   align-items: flex-start;
   margin-bottom: 30px;

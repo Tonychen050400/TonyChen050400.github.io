@@ -255,3 +255,70 @@
     }
   }
 }
+
+
+/* ==========================================================================
+   ADDITIONAL LAYOUT FOR PUBLICATIONS (image-left, content-right)
+   ========================================================================== */
+
+.archive__item {
+  display: flex;
+  gap: 20px;
+  align-items: flex-start;
+  margin-bottom: 30px;
+}
+
+.archive__item img.publication-thumbnail {
+  width: 160px;
+  height: auto;
+  border-radius: 8px;
+  box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+}
+
+.archive__item-content {
+  flex: 1;
+}
+
+.archive__item-title {
+  margin-bottom: 8px;
+  font-size: 1.2rem;
+}
+
+.archive__item-authors {
+  margin: 4px 0 10px 0;
+  font-size: 0.95rem;
+  color: #444;
+}
+
+.archive__item p {
+  margin-top: 6px;
+}
+
+.explore-button,
+.huggingface-button {
+  display: inline-block;
+  margin-right: 10px;
+  padding: 6px 12px;
+  border-radius: 4px;
+  font-weight: bold;
+  text-decoration: none;
+  font-size: 0.9rem;
+}
+
+.explore-button {
+  background-color: #007bff;
+  color: white;
+}
+
+.explore-button:hover {
+  background-color: #0069d9;
+}
+
+.huggingface-button {
+  background-color: #28a745;
+  color: white;
+}
+
+.huggingface-button:hover {
+  background-color: #218838;
+}
